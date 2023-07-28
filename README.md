@@ -9,20 +9,20 @@ Este proyecto consiste en el desarrollo de una plataforma de cursos orientada a 
 La aplicación cuenta con diferentes vistas, incluyendo una landing, un home donde se muestran todos los cursos y se pueden aplicar filtros, formularios de registro y login, distintos tipos de usuarios, permisos especiales segun el tipo de usuario, creacion de cursos, rating y comentarios, dashboard admin, borrado logico de cursos y profesores, entre otras funcionalidades
 
 ## Miembros del Grupo
-[Elian Rehbani LKDN](https://www.linkedin.com/in/elián-rehbani-96113624b/)
-[Elian Rehbani GH](https://github.com/ERehbani)
+[Elian Rehbani LKDN](https://www.linkedin.com/in/elián-rehbani-96113624b/) 
+[Elian Rehbani GH](https://github.com/ERehbani)</br>
 [Facundo Perka LKDN](https://www.linkedin.com/in/facuperka/)
-[Facundo Perka GH](https://github.com/FacuPerka)
+[Facundo Perka GH](https://github.com/FacuPerka)</br>
 [Gian Ruiz LKDN](https://www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183/)
-[Gian Ruiz GH](https://github.com/Giankrp)
+[Gian Ruiz GH](https://github.com/Giankrp)</br>
 [Jhohan Cortes LKDN](https://www.linkedin.com/in/jhohan-cortes-a314a8213/)
-[Jhohan Cortes GH](https://github.com/JhohanCortes)
+[Jhohan Cortes GH](https://github.com/JhohanCortes)</br>
 [Sebastian Albornoz LKDN](https://www.linkedin.com/in/sebastian-albornoz-126b90237/)
-[Sebastian Albornoz GH](https://github.com/Shakkus) 
+[Sebastian Albornoz GH](https://github.com/Shakkus) </br>
 [Sergio Correa LKDN](https://www.linkedin.com/in/sergio-correa-a85563267/)
-[Sergio Correa GH](https://github.com/SergioFCorrea)
+[Sergio Correa GH](https://github.com/SergioFCorrea)</br>
 [Thiago Zambonini LKDN ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
-[Thiago Zambonini GH ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+[Thiago Zambonini GH ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)</br>
 
 ##
 ## ENGLISH
