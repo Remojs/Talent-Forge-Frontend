@@ -9,35 +9,41 @@ Este proyecto consiste en el desarrollo de una plataforma de cursos orientada a 
 La aplicación cuenta con diferentes vistas, incluyendo una landing, un home donde se muestran todos los cursos y se pueden aplicar filtros, formularios de registro y login, distintos tipos de usuarios, permisos especiales segun el tipo de usuario, creacion de cursos, rating y comentarios, dashboard admin, borrado logico de cursos y profesores, entre otras funcionalidades
 
 ## Miembros del Grupo
-
-
-[![Linkedin](https://img.shields.io/badge/linkedin-@ElianRehbani-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/elián-rehbani-96113624b/)
-
-[![Github](https://img.shields.io/badge/github-@ElianRehbani-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/ERehbani)
-
-[![Linkedin](https://img.shields.io/badge/linkedin-@FacundoPerka-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/facuperka/)
-
-[![Github](https://img.shields.io/badge/github-@FacundoPerka-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/FacuPerka)
-
-[![Linkedin](https://img.shields.io/badge/linkedin-@GianRuiz-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183/)
-
-[![Github](https://img.shields.io/badge/github-@GianRuiz-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/Giankrp)
-
-[![Linkedin](https://img.shields.io/badge/linkedin-@JhohanCortes-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jhohan-cortes-a314a8213/)
-
-[![Github](https://img.shields.io/badge/github-@JhohanCortes-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/JhohanCortes)
-
-[![Linkedin](https://img.shields.io/badge/linkedin-@SebastianAlbornoz-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sebastian-albornoz-126b90237/)
-
-[![Github](https://img.shields.io/badge/github-@SebastianAlbornoz-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/Shakkus)
-
-[![Linkedin](https://img.shields.io/badge/linkedin-@SergioCorrea-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-correa-a85563267/)
-
-[![Github](https://img.shields.io/badge/github-@SergioCorrea-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/SergioFCorrea)
-
-[![Linkedin](https://img.shields.io/badge/linkedin-@ThiagoZambonini-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
-
-[![Github](https://img.shields.io/badge/github-@ThiagoZambonini-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+<p align=center >  
+  
+[Elian Rehbani LKDN](https://www.linkedin.com/in/elián-rehbani-96113624b/)
+[Elian Rehbani GH](https://github.com/ERehbani)
+</p>
+<p align=center > 
+  
+[Facundo Perka LKDN](https://www.linkedin.com/in/facuperka/)
+[Facundo Perka GH](https://github.com/FacuPerka)
+</p>
+<p align=center > 
+  
+[Gian Ruiz LKDN](https://www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183/)
+[Gian Ruiz GH](https://github.com/Giankrp)
+</p>
+<p align=center > 
+  
+[Jhohan Cortes LKDN](https://www.linkedin.com/in/jhohan-cortes-a314a8213/)
+[Jhohan Cortes GH](https://github.com/JhohanCortes)
+</p>
+<p align=center > 
+  
+[Sebastian Albornoz LKDN](https://www.linkedin.com/in/sebastian-albornoz-126b90237/)
+[Sebastian Albornoz GH](https://github.com/Shakkus) 
+</p>
+<p align=center > 
+  
+[Sergio Correa LKDN](https://www.linkedin.com/in/sergio-correa-a85563267/)
+[Sergio Correa GH](https://github.com/SergioFCorrea)
+</p>
+<p align=center > 
+  
+[Thiago Zambonini LKDN ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+[Thiago Zambonini GH ](https://github.com/Remojs)
+</p>
 
 
 ##
