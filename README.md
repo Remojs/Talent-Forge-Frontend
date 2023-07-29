@@ -12,19 +12,33 @@ La aplicación cuenta con diferentes vistas, incluyendo una landing, un home don
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-@ElianRehbani-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/elián-rehbani-96113624b/)
+
 [![Github](https://img.shields.io/badge/github-@ElianRehbani-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/ERehbani)
+
 [![Linkedin](https://img.shields.io/badge/linkedin-@FacundoPerka-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/facuperka/)
+
 [![Github](https://img.shields.io/badge/github-@FacundoPerka-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/FacuPerka)
+
 [![Linkedin](https://img.shields.io/badge/linkedin-@GianRuiz-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183/)
+
 [![Github](https://img.shields.io/badge/github-@GianRuiz-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/Giankrp)
+
 [![Linkedin](https://img.shields.io/badge/linkedin-@JhohanCortes-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jhohan-cortes-a314a8213/)
+
 [![Github](https://img.shields.io/badge/github-@JhohanCortes-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/JhohanCortes)
+
 [![Linkedin](https://img.shields.io/badge/linkedin-@SebastianAlbornoz-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sebastian-albornoz-126b90237/)
+
 [![Github](https://img.shields.io/badge/github-@SebastianAlbornoz-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/Shakkus)
+
 [![Linkedin](https://img.shields.io/badge/linkedin-@SergioCorrea-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-correa-a85563267/)
+
 [![Github](https://img.shields.io/badge/github-@SergioCorrea-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://github.com/SergioFCorrea)
+
 [![Linkedin](https://img.shields.io/badge/linkedin-@ThiagoZambonini-#00aae4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+
 [![Github](https://img.shields.io/badge/github-@ThiagoZambonini-#ffffff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+
 
 ##
 ## ENGLISH
