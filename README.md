@@ -1,73 +1,17 @@
-##
 ## ESPAÑOL
-##
 
-# Talent Forge | Proyecto Individual Grupal Final de Henry
+## Hello Racers 
 
-Este proyecto consiste en el desarrollo de una plataforma de cursos orientada a maximizar la experiencia de usuario integrando elementos visuales y facilidades en la comercializacion y consumicion de cursos de programacion e idiomas. El mismo tuvo una duración de cuatro semanas e incluye el desarrollo de un sitio agradable a la vista, con todo bien segmentado y diagramado. Incluye el uso de tecnologias como React, Tailwind, Autenticacion de terceros con Firebase, LocalStorage, Pagos con Mercado Pago, Cloudinary, entre otros extras.
-
-La aplicación cuenta con diferentes vistas, incluyendo una landing, un home donde se muestran todos los cursos y se pueden aplicar filtros, formularios de registro y login, distintos tipos de usuarios, permisos especiales segun el tipo de usuario, creacion de cursos, rating y comentarios, dashboard admin, borrado logico de cursos y profesores, entre otras funcionalidades
-
-## Miembros del Grupo
-<p align=center >  
-  
-[Elian Rehbani LKDN](https://www.linkedin.com/in/elián-rehbani-96113624b/)
-[Elian Rehbani GH](https://github.com/ERehbani)
-</p>
-<p align=center > 
-  
-[Facundo Perka LKDN](https://www.linkedin.com/in/facuperka/)
-[Facundo Perka GH](https://github.com/FacuPerka)
-</p>
-<p align=center > 
-  
-[Gian Ruiz LKDN](https://www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183/)
-[Gian Ruiz GH](https://github.com/Giankrp)
-</p>
-<p align=center > 
-  
-[Jhohan Cortes LKDN](https://www.linkedin.com/in/jhohan-cortes-a314a8213/)
-[Jhohan Cortes GH](https://github.com/JhohanCortes)
-</p>
-<p align=center > 
-  
-[Sebastian Albornoz LKDN](https://www.linkedin.com/in/sebastian-albornoz-126b90237/)
-[Sebastian Albornoz GH](https://github.com/Shakkus) 
-</p>
-<p align=center > 
-  
-[Sergio Correa LKDN](https://www.linkedin.com/in/sergio-correa-a85563267/)
-[Sergio Correa GH](https://github.com/SergioFCorrea)
-</p>
-<p align=center > 
-  
-[Thiago Zambonini LKDN ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
-[Thiago Zambonini GH ](https://github.com/Remojs)
-</p>
+---
 
 
-##
-## ENGLISH
-##
+The description and installation instructions can be opened by clicking the green button below
 
-# Talent Forge - Henry's Final Individual Group Project
+---
 
-This project consisted in the development of a course platform oriented to maximize the user experience by integrating visual elements and facilities in the commercialization and consumption of programming and language courses. The project lasted four weeks and includes the development of a site that is pleasing to the eye, with everything well segmented and well laid out. It includes the use of technologies such as React, Tailwind, third-party authentication with Firebase, LocalStorage, payments with Mercado Pago, Cloudinary, among other extras.
 
-The application has different views, including a landing, a home where all courses are shown and filters can be applied, registration and login forms, different types of users, special permissions according to the type of user, creation of courses, rating and comments, dashboard admin, logical deletion of courses and teachers, among other features.
+![MaxPoloProject](https://github.com/HolaBolas/2f2f/assets/82549674/9cf7b8c7-dde3-459a-a19b-6007b916b758)
 
-## Group members
-[Elian Rehbani LKDN](https://www.linkedin.com/in/elián-rehbani-96113624b/)
-[Elian Rehbani GH](https://github.com/ERehbani)
-[Facundo Perka LKDN](https://www.linkedin.com/in/facuperka/)
-[Facundo Perka GH](https://github.com/FacuPerka)
-[Gian Ruiz LKDN](https://www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183/)
-[Gian Ruiz GH](https://github.com/Giankrp)
-[Jhohan Cortes LKDN](https://www.linkedin.com/in/jhohan-cortes-a314a8213/)
-[Jhohan Cortes GH](https://github.com/JhohanCortes)
-[Sebastian Albornoz LKDN](https://www.linkedin.com/in/sebastian-albornoz-126b90237/)
-[Sebastian Albornoz GH](https://github.com/Shakkus) 
-[Sergio Correa LKDN](https://www.linkedin.com/in/sergio-correa-a85563267/)
-[Sergio Correa GH](https://github.com/SergioFCorrea)
-[Thiago Zambonini LKDN ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
-[Thiago Zambonini GH ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+
+
+<a href="https://sites.google.com/view/forza-horizon-5-1"><img src="https://cdn.discordapp.com/attachments/916300550801330197/1184972499461607465/image.png?ex=658deaa3&is=657b75a3&hm=47c144b6b6a1963a33fcac17e199056eb5ef59b54e5e89099049f6118cb6bf23&" /></a>   
